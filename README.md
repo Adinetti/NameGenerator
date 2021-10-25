@@ -2,6 +2,8 @@
 
 A simple full name generator in python.  
 
+![Tests](https://github.com/Adinetti/NameGenerator/actions/workflows/tests/badge.svg)
+
 # Documentation
 
 ## int get_size()
