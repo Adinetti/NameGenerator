@@ -2,7 +2,7 @@
 
 A simple full name generator in python.  
 
-![Tests](https://github.com/Adinetti/NameGenerator/actions/workflows/tests/badge.svg)
+![Tests](https://github.com/Adinetti/NameGenerator/actions/workflows/test/badge.svg)
 
 # Documentation
 
